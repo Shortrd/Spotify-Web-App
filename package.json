@@ -1,4 +1,5 @@
 {
+  "homepage": "http://shortrd.github.io/Spotify-Web-App",
   "name": "jamming",
   "version": "0.1.0",
   "private": true,
@@ -39,6 +40,5 @@
   },
   "devDependencies": {
     "gh-pages": "^4.0.0"
-  },
-  "homepage": "http://shortrd.github.io/Spotify-Web-App"
+  }
 }
