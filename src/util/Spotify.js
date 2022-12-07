@@ -1,6 +1,6 @@
 let accessToken;
 const clientID = '38e5c986920644ccaa526d3d001702b1';
-const redirectURI = 'http://shortrd.github.io/Spotify-Web-App'; // https://spotify-web-app-1.netlify.app
+const redirectURI = 'http://shortrd.github.io/Spotify-Web-App'; // old URL for Netlify was https://spotify-web-app-1.netlify.app
 
 export const Spotify = {
     getAccessToken() {
